@@ -1,0 +1,20 @@
+.bannerContact
+{
+  background-image: url('../../../assets/img/backgroundContact.jpg');
+  height: 1300px;
+  background-position: center;
+  background-size: cover;
+}
+
+.container
+{
+  background-position: center;
+  padding: 100px 20px;
+  text-align: center;
+  background-position: center;
+}
+
+.title
+{
+  color: #fff;
+}
